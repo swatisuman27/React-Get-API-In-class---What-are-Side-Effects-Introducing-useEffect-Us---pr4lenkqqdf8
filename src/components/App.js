@@ -7,17 +7,11 @@ import { useEffect , useState } from 'react';
  * @url : https://jsonplaceholder.typicode.com/users
  * @output : show the names of users to frontend like below. 
  * 0. Leanne Graham
-
 1. Ervin Howell
-
 2. Clementine Bauch
-
 3. Patricia Lebsack
-
 4. Chelsey Dietrich
-
 5. Mrs. Dennis Schulist
-
 6. Kurtis Weissnat
  */
 
@@ -51,3 +45,4 @@ function App() {
  * 
  */
 export default App;
+
